@@ -531,7 +531,7 @@ section {
 /* Pricing */
 
 #pricing {
-	background: #00a8ff url('../img/2.jpg') no-repeat center center;
+	background: #00a8ff url('../img/sunrise.jpeg') no-repeat center center;
 	-webkit-background-size: cover;
 	background-size: cover;
 	-webkit-transition: background-image 0.6s linear 0.3s;
@@ -637,8 +637,8 @@ section {
 /* Footer */
 
 footer {
-	padding: 140px 0 40px;
-	background: url('../img/2.jpg');
+	padding: 5px 0 10px;
+	background: black;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
